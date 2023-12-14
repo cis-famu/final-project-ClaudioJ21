@@ -1,0 +1,14 @@
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+  }
+  .title {
+    font-size: xx-large;
+    font-weight: 600;
+  }
+  .text { 
+    font-size: x-large;
+    word-spacing: 2;
+    font-style: italic;
+  }

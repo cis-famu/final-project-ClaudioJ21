@@ -1,0 +1,11 @@
+.navbar-nav {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+  }
+
+  .contact-text {
+    align-content: center;
+    font-size: x-large;
+    font-style: italic ;
+  }

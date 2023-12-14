@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+    margin: 0;
+}
+
+.text-primary.display-4.font-weight-bold {
+    color: darkgreen;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    order: 1;
+    
+}
+
+#instagram-embed {
+    position: absolute;
+    bottom: 0;
+    left: 85%; /* Center it horizontally */
+    width: 100%;
+    transform: translate(-50%, 0); /* Adjust its position */
+  }
